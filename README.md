@@ -2,7 +2,7 @@
 
 ## Usage
 
-python spotifylyrcs.py
+python spotifylyrics.py
 
 ## Credits
 
